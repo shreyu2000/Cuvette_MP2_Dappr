@@ -99,6 +99,7 @@ input::placeholder{
 .social-icons img{
     display: block;
     height: 60px;
+    margin-right:0px ;
     width: fit-content;
 
 }
@@ -112,7 +113,7 @@ input::placeholder{
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    width: 1380px;
+    width: 90%;
     height: 1400px;
     margin: 180px 50px 30px 60px;
     /* margin-top:20px; */
