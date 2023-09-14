@@ -92,14 +92,14 @@ input::placeholder{
 .social-icons{
     float: right;
     position: sticky;
-    top:100px;
+    top:120px;
     margin-top:20vh;
     /* z-index: 10; */
 }
 .social-icons img{
     display: block;
     height: 60px;
-    margin-right:0px ;
+    margin-right:0vw ;
     width: fit-content;
 
 }
@@ -113,7 +113,7 @@ input::placeholder{
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    width: 90%;
+    width: 90vw;
     height: 1400px;
     margin: 180px 50px 30px 60px;
     /* margin-top:20px; */
